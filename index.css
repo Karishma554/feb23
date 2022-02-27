@@ -1,0 +1,54 @@
+body{
+    margin:0px;
+   }
+   .container{
+       width:90%;
+       height:90vh;
+       margin: 20px 70px;
+       background-color:orange ;
+   }
+   
+   
+   .log_in{
+       float:right;
+       width:40%;
+       background-color:aquamarine ;
+       height:90vh;
+   }
+   img{
+       height:100px;
+       margin-left:200px;
+       margin-top:20px;
+   }
+   .login > span{
+       margin-left: 200px;
+       color:white;
+       margin-top: 10px;
+       font-size: xx-large;
+   }
+   label{
+       margin-left: 200px;
+       margin-top: 300px;
+       color:white;
+   }
+   input{
+       margin-left: 200px;
+       margin-top: 10px;
+       color:white;
+       padding:10px;
+   
+   }
+   span{
+       color:white;
+       margin-left:-120PX;
+   }
+   .btn1{
+       margin-left:100px;
+   }
+   .btn2{
+       margin-left:200px;
+       padding:10px;
+   }
+   a{
+       text-decoration: none;
+   }
